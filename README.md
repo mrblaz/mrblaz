@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrblaz
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning Python, JS
+- 💞️ I’m looking to collaborate on Cyber Security
